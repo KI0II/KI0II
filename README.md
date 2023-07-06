@@ -5,7 +5,8 @@
 - 🌱 Сейчас я учусь на курсе: Профессия тестировщик на Java, в компании Skillfactory  
 -- https://skillfactory.ru/
 - 💞️ Ищу работу по специальности: Тестировщик.
-- 📫 How to reach me ...
+- 📫 Как связаться со мной...
+lksgolubev@gmail.com
 
 <!---
 KI0II/KI0II is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

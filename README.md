@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Aleksey Golubev
+- 👋 Привет. Меня зовут Алексей Голубев
 - 👀 Обо мне:
 - Я начинающий тестировщик на Java. 
 - 🌱 I’m currently learning ...

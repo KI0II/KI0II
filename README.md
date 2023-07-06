@@ -6,7 +6,11 @@
 -- https://skillfactory.ru/
 - 💞️ Ищу работу по специальности: Тестировщик.
 - 📫 Как связаться со мной...
-lksgolubev@gmail.com
+  <div id="badges">
+  <a href="your-telegram-URL">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
 
 <!---
 KI0II/KI0II is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

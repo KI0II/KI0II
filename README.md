@@ -7,6 +7,7 @@
 - 💞️ Ищу работу по специальности: Тестировщик.
 - 📫 Как связаться со мной...
   <div id="badges">
+    <img src="https://komarev.com/ghpvc/?KI0II=your-github-username&style=flat-square&color=blue" alt=""/>
   <a href="https://t.me/lksgolubev">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>

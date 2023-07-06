@@ -7,7 +7,7 @@
 - 💞️ Ищу работу по специальности: Тестировщик.
 - 📫 Как связаться со мной...
   <div id="badges">
-  <a href="your-twitter-URL">
+  <a href="[your-twitter-URL](https://t.me/lksgolubev)">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
 </div>

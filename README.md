@@ -29,13 +29,7 @@
 
 ---
 
-<div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KI0II&theme=github_dark" alt=""/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KI0II&theme=github_dark" alt=""/>
-     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KI0II&theme=github_dark" alt=""/>
-</div>
-
----
+<img src="https://komarev.com/ghpvc/?username=KI0II&style=flat-square&color=blue" alt=""/>
 <!---
 KI0II/KI0II is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
